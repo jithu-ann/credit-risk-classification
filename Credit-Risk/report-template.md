@@ -12,9 +12,17 @@ For the analysis, split the data into training and testing datasets by using tra
 ## Results
 
    •The accuracy is 0.99
+
+   
    •The precision of high risk loan is 0.87
+
+   
    •The recall of high risk loan is 0.89
+
+   
    •The precision of healthy loan is 1.00
+
+   
    •The recall of healthy loan is 1.00
    
    
